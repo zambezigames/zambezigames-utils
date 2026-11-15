@@ -11,6 +11,7 @@ Utilitários TypeScript sem dependências para desenvolvimento de jogos.
 | `collision.ts` | Testes de sobreposição ponto/AABB/círculo e resolução de colisão círculo-retângulo |
 | `loop.ts` | Loop de jogo com timestep fixo e interpolação de renderização |
 | `grid.ts` | Vizinhos de grelha, distância de Manhattan, pathfinding A* em grelhas uniformes |
+| `soaring.ts` | Modelo de voo à vela — térmicas com ciclo de vida e deriva, curva polar da asa (afundamento/stall/melhor planeio), cisalhamento do vento |
 | `unity/Easing.cs` | Unity (C#) — a suite de easing/interpolação, direto em `Assets/Scripts/` |
 | `unreal/ZambeziEasingLibrary.h/.cpp` | Unreal (C++) — a mesma suite como `UBlueprintFunctionLibrary`, utilizável em Blueprints |
 
